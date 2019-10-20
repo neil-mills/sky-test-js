@@ -1,0 +1,22 @@
+{
+  "name": "sky-test",
+  "version": "1.0.0",
+  "description": "Sky javascript tech test",
+  "main": "redeemService.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neil-mills/sky-test-js.git"
+  },
+  "author": "Neil Mills",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neil-mills/sky-test-js/issues"
+  },
+  "homepage": "https://github.com/neil-mills/sky-test-js#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
