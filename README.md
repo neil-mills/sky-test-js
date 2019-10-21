@@ -19,6 +19,6 @@ Test against node version 5.6.0
 
 ## Running tests
 
-To run tests, cd to the root of the project, and run `npm run test`.
+To run tests, `cd` to the root of the project, and run `npm run test`.
 
 ## To do
